@@ -5,10 +5,10 @@ import HelloWorld from './components/HelloWorld.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
+    <img src="@/assets/A1.jpg" height="200" width="200"/>
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="Fuck you蒋桂超" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
