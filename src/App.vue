@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img src="@/assets/A1.jpg" height="200" width="200"/>
 
     <div class="wrapper">
-      <HelloWorld msg="Fuck you蒋桂超" />
+      <HelloWorld msg="Fuck you易俊豪" />
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
