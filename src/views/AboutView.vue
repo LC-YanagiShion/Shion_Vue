@@ -1,7 +1,14 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <img src="@/assets/A1.jpg" height="200" width="200"/>
+
+    <div class="wrapper">
+      <HelloWorld msg="Fuck you易俊豪" />
+
+      <nav>
+        <RouterLink to="/">Home</RouterLink>
+        <RouterLink to="/about">About</RouterLink>
+      </nav>
+    </div>
 </template>
 
 <style>
